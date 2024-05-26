@@ -1,7 +1,7 @@
 - 👋 Olá, sou Thiago Rodrigues
 - 👀 Estou interessado em ser um futuro Desenvolvedor Full Stack
 - 🌱 Atualmente estou estudando Analise e Desenvolvimento de Sistema
-- 💞️ Procuro compartilhar meus projetos pelo meu Git
+- 💞️ Procuro compartilhar meus projetos pelo meu Github https://github.com/Thiago-assis87
 - 📫 Meu linkedin é https://www.linkedin.com/in/thiagorodrigues87/
 - ⚡ Curiosidades sobre mim é que sou PREDESTINADO. 
 
