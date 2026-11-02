@@ -91,20 +91,6 @@ checklist de expedição) mostra habilidade técnica e experiência na área ao 
 
 ---
 
-## 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiago-assis87/Thiago-assis87/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiago-assis87/Thiago-assis87/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Thiago-assis87/Thiago-assis87/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
 ## 🌐 Contato e redes sociais
 
 <div align="center">
